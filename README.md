@@ -1,18 +1,18 @@
 # **XGRIP Sales and Profit Analytics Dashboard**
 
-![](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/img1.png)
+![](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/img1.png)
 
 ### **Light and Dark Executive Dashboard**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
+![Light and Dark Mode](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Dark%20Executive%20Dashboard.png)  
 
 ### **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+![Sales Overview](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Light%20Executive%20Dashboard.png)  
 
 ### **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+![Product Analysis](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Product%20Analysis.png)  
 
 ### **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
+![Map Analysis](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Map%20Chart%20Analysis.png)  
 
 ---
 
@@ -67,21 +67,21 @@ The dashboard provides clear and actionable insights into sales, profits, and pr
 
 ### **Screenshots**  
 **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+![Sales Overview](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Light%20Executive%20Dashboard.png)  
 
 **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+![Product Analysis](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Product%20Analysis.png)  
 
 **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
+![Map Analysis](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Map%20Chart%20Analysis.png)  
 
 **Light and Dark Mode Example**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)
+![Light and Dark Mode](https://github.com/Pranavi-2002/E-XGRIP-Sales-and-Profit-Analysis/blob/000cd87d0133a305d8388fcbef47ed9c096ad7c2/Dark%20Executive%20Dashboard.png)
 
 ---
 
 ## **Access the Dashboard**  
-Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/view?r=eyJrIjoiMDE5N2U2ZTAtZDA2Zi00MDgyLWI0MjMtZTlkYjc1ODc0MWVkIiwidCI6ImY3NDM5NmYzLTgwMTUtNGI3NC1iNDY4LWNkYTA0NTEzZDg0YyJ9)**  
+Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/groups/me/reports/d23b847c-0e4d-43f3-b991-68ef38122038/25007e680a155755024a?experience=power-bi&clientSideAuth=0)**  
 
 ---
 
@@ -91,7 +91,6 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 3. Drillthrough on products or returns charts for detailed insights.  
 4. Toggle between light and dark modes for your viewing preference.
 
----
 
-### **Copyright:**  
-Project dataset created by ZeroAnalyst; it is a simulated company for learning purposes.
+
+
