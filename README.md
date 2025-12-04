@@ -81,7 +81,9 @@ The dashboard provides clear and actionable insights into sales, profits, and pr
 ---
 
 ## **Access the Dashboard**  
-Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/groups/me/reports/d23b847c-0e4d-43f3-b991-68ef38122038/25007e680a155755024a?experience=power-bi&clientSideAuth=0)**  
+Explore the live dashboard here: **[Link to Online Reports Page](
+https://app.powerbi.com/reportEmbed?reportId=d23b847c-0e4d-43f3-b991-68ef38122038&autoAuth=true&ctid=d1da0ab2-85fa-4d0b-9ef7-435484ec9c9b&actionBarEnabled=true&reportCopilotInEmbed=true
+)**  
 
 ---
 
@@ -90,6 +92,7 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 2. Navigate between pages using bookmarks and buttons.  
 3. Drillthrough on products or returns charts for detailed insights.  
 4. Toggle between light and dark modes for your viewing preference.
+
 
 
 
